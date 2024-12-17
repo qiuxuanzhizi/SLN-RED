@@ -18,4 +18,14 @@ This code is about our published paper" SLN-RED: Regularization by Simultaneous 
    ```
    >> main
    ```
+
+@article{he2023sln,
+  title={SLN-RED: Regularization by simultaneous local and nonlocal denoising for image restoration},
+  author={He, Liangtian and Zhang, Qinghua and Yang, Xuesong and Wang, Yilun and Wang, Chao},
+  journal={IEEE Signal Processing Letters},
+  volume={30},
+  pages={578--582},
+  year={2023},
+  publisher={IEEE}
+}
    
