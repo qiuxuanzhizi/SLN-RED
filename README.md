@@ -1,6 +1,6 @@
 # SLN-RED: version 1.0.0
 
-This code is about our published paper" SLN-RED: Regularization by Simultaneous Local and Nonlocal Denoising for Image Restoration".
+This code is about our published paper "SLN-RED: Regularization by Simultaneous Local and Nonlocal Denoising for Image Restoration"， IEEE Signal Processing Letters, 2023.
 
 
 ## Quick start
