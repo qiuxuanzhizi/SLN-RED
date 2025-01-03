@@ -2,6 +2,8 @@
 
 This code is about our published paper "SLN-RED: Regularization by Simultaneous Local and Nonlocal Denoising for Image Restoration"， IEEE Signal Processing Letters, 2023.
 
+If you have any problem about our code, please email qhzhang@mail.bnu.edu.cn.
+
 
 ## Quick start
 
@@ -28,4 +30,5 @@ This code is about our published paper "SLN-RED: Regularization by Simultaneous 
   year={2023},
   publisher={IEEE}
 }
+
    
